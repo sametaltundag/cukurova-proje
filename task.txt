@@ -1,0 +1,12 @@
+Login
+Firma kaydı
+
+--
+
+Teklif Oluşturma
+
+Adet
+Fiyat
+Toplam Fiyat
+KDV
+iskonto Hesaplaması
